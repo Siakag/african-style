@@ -1,0 +1,1 @@
+<?php include(INC_PATH.'/_home.php'); ?>
